@@ -8,7 +8,7 @@ Requires:
 - pip install pytesseract
 - download Tesseract-OCR 
 """
-!Kendi localinizde çalıştırırken dikkat etmeniz gereken nokta
+<p>!Kendi localinizde çalıştırırken dikkat etmeniz gereken nokta</p>
 
 -pytesseract.pytesseract.tesseract_cmd = 'C:\\Users\\sefaozturk\\AppData\\Local\\Tesseract-OCR\\tesseract.exe'
 
