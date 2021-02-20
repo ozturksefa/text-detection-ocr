@@ -1,6 +1,6 @@
 # text-detection-ocr
 
-Gerekli indirmeler
+<p> Gerekli indirmeler</p>
 """
 Requires:
 - Python 3
