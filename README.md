@@ -13,5 +13,5 @@ Requires:
 
 -pytesseract.pytesseract.tesseract_cmd = 'C:\\Users\\sefaozturk\\AppData\\Local\\Tesseract-OCR\\tesseract.exe'
 
-Path yoluna kendinizkini yazınız
+Path yoluna sizin localinizdeki Tesseract-Ocr yolunu yazınız
 
